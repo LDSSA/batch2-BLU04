@@ -20,7 +20,9 @@ pip install -r requirements.txt
 conda install --file requirements.txt
 ```
 * Install via docker
-TBD
+```
+sh run-jupyter-notebook.sh
+```
 
 2. Go through the Learning Notebooks (they are in the Learning Notebooks folder)
 3. Do the Exercise notebook, and submit it on [the portal](http://portal.lisbondatascience.org) as usual 
