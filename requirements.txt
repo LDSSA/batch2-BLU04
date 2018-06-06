@@ -32,7 +32,7 @@ pandocfilters
 parso
 pexpect
 pickleshare
-prompt-toolkit
+prompt-toolkit<2.0.0,>=1.0.15
 ptyprocess
 Pygments
 pyparsing
